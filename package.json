@@ -1,5 +1,5 @@
 {
-  "name": "vietnam-qr-pay",
+  "name": "@redsun-vn/vietnam-qr-pay",
   "version": "1.4.0",
   "description": "Encode/Decode VietQR and VNPAY-QR",
   "main": "dist/index.js",
